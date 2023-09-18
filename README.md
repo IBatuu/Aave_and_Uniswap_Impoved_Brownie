@@ -1,3 +1,5 @@
+In this script, I expanded my training on defi smart contracts by learning how to interact with Aave and Uniswap simultaneously
+
 # Brownie DeFi
 Brownie scripts interacting with DeFi smart contracts.
 
